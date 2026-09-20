@@ -1,0 +1,15 @@
+serialemPythonModulesPath=D:\titan\Program_Files_SerialEM\PythonModules\serialem.pyd
+ellipse_angle=85.5
+ellipse_width=20.0
+### ellipse_height_width_ratio>1  , e.g.  1/cos60 = 2
+ellipse_height_width_ratio=2 
+angle=0.0
+window_width=800
+window_height=1200
+flip_image=0
+
+opacity_initial=51.0
+scale_initial=90.0
+bg_scale_initial=4.5
+ia_initial=1.2
+ps_initial=20.2
